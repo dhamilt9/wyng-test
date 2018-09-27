@@ -6,14 +6,11 @@ Hosted at at 54.173.137.49
 54.173.137.49/client
 
 ## REQUIREMENTS
-``
 * Python 3.5.2
 * Pipenv (Python virtual environment)
 * Node.js/npm
-``
 ## PACKAGES USED
-``
-* Python:
+Python:
 * django
 * django-rest-framework
 * pillow
@@ -23,7 +20,6 @@ Node:
 * react
 * react-cookie
 * react-router-dom
-``
 ## SETUP
 
 ```
@@ -40,10 +36,10 @@ python wyng/wyng/manage.py runserver
 ```
 
 ## USAGE
-``
+
 Upload images at /client
 View and vote on images at the root
-``
+
 ## TESTING
 
 ```
