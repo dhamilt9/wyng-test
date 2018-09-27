@@ -7,22 +7,22 @@ Hosted at at 54.173.137.49
 
 ## REQUIREMENTS
 ``
-Python 3.5.2
-Pipenv (Python virtual environment)
-Node.js/npm
+* Python 3.5.2
+* Pipenv (Python virtual environment)
+* Node.js/npm
 ``
 ## PACKAGES USED
 ``
-Python:
-*django
-*django-rest-framework
-*pillow
+* Python:
+* django
+* django-rest-framework
+* pillow
 Node:
-*babel
-*webpack
-*react
-*react-cookie
-*react-router-dom
+* babel
+* webpack
+* react
+* react-cookie
+* react-router-dom
 ``
 ## SETUP
 
