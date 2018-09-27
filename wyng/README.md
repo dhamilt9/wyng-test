@@ -3,6 +3,7 @@
 ## An app that allows a client to upload five images to a gallery and users to vote on images.
 
 Hosted at at 54.173.137.49
+
 54.173.137.49/client
 
 ## REQUIREMENTS
