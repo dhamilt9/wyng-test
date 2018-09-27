@@ -4,7 +4,7 @@
 
 Hosted at at 54.173.137.49
 
-54.173.137.49/client
+Image upload at 54.173.137.49/client
 
 ## REQUIREMENTS
 * Python 3.5.2
